@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 To log in, use:
 
 email: dani@example.com
+<<<<<<< HEAD
 password: 12
+=======
+password: 12
+>>>>>>> db09b5046b35650abfcb59710eb966f9cc244351
